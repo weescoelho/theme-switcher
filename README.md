@@ -30,7 +30,9 @@ Repositório de exemplo para implementação de um theme switch com React
 
 ## :sparkles: Custom Hooks ##
 
-:heavy_check_mark: Utilização de Custom Hook;\
+### usePersistedState
+
+Este hook permite persistir estados no localStorage.
 
 
 ## :rocket: Tecnologias ##
